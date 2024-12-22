@@ -1,4 +1,4 @@
-[[# <div align="center">Hello World^)</div>  
+# <div align="center">Hello World^)</div>  
   
 
 ## 👨‍💻 Трохи про мене:
@@ -85,7 +85,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delaath&hide_border=true&layout=compact" align="left" />  
 
-<br/>    
+<br/>  
   
 
 <br/>  
@@ -99,10 +99,8 @@
   
   
 
-(https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)  
+![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)  
 
 <br />
 
 ----
-](https://t.me/Delaathh)
-](https://t.me/Delaathh)
