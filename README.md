@@ -1,4 +1,4 @@
-# <div align="center">Hello World^)</div>  
+[# <div align="center">Hello World^)</div>  
   
 
 ## 👨‍💻 Трохи про мене:
@@ -90,8 +90,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
 <br/>  
 
   
@@ -106,3 +104,4 @@
 <br />
 
 ----
+](https://t.me/Delaathh)
